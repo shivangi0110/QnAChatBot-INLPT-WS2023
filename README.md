@@ -2,13 +2,13 @@
 
 ### Our Team:
 
-Sharma, Shivangi, 4732300, M.Sc Data and Computer Science
+Sharma, Shivangi, M.Sc Data and Computer Science
 
-Gudibandi, Shreeharsh Ashok, 3773258, M.Sc Data and Computer Science
+Gudibandi, Shreeharsh Ashok, M.Sc Data and Computer Science
 
-Chaturvedi, Suryansh, 3767774, M.Sc Data and Computer Science
+Chaturvedi, Suryansh, M.Sc Data and Computer Science
 
-Schmid, Janik, 4058658, M.Sc Data and Computer Science
+Schmid, Janik, M.Sc Data and Computer Science
 
 
 ## Installation guide:

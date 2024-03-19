@@ -1,26 +1,14 @@
 ### Title: 
 QA-Bot-INLPT-WS2023
 
-### Team Mentor:
-Satya Almasian
-
 ### Our Team:
-Sharma, Shivangi, 4732300, M.Sc Data and Computer Science
+Sharma, Shivangi, M.Sc Data and Computer Science
 
-Gudibandi, Shreeharsh Ashok, 3773258, M.Sc Data and Computer Science
+Gudibandi, Shreeharsh Ashok, M.Sc Data and Computer Science
 
-Chaturvedi, Suryansh , 3767774, M.Sc Data and Computer Science
+Chaturvedi, Suryansh, M.Sc Data and Computer Science
 
-Schmid, Janik, 4058658, M.Sc Data and Computer Science
-
-### Email Addresses:
-shivangi.sharma@stud.uni-heidelberg.de
-
-shreeharsh.gudibandi@stud.uni-heidelberg.de
-
-suryansh.chaturvedi@stud.uni-heidelberg.de
-
-janik.schmid@stud.uni-heidelberg.de
+Schmid, Janik, M.Sc Data and Computer Science
 
 
 ### Member Contribution:
